@@ -24,7 +24,12 @@ AlexBot双足机器人设计仿真图
 
 3.模仿学习算法&全身MPC&WBC
 
-还没做到
+现在是步态规划刚刚有所起色，目前负责算法的同学已经走起来了
+
+现在根据电控给我的限位修改了一下urdf的limit，其中具体的可以用mujoco viewer打开看一下。
+![v2-0d076ae3580f4597905c6a757b91bd20_720w](https://github.com/Alexhuge1/Alexbot/assets/79268846/ca007be0-8ff4-47b6-8b23-acb9bd97a089)
+
+目前使用Isaagym中legged gym，因为是五自由度，所以修改了leggedgym/envs/base中leggedrobot.py。其中主要修改的是维度部分。本来想修改cassie的config的，后来发现自由度不一样就自己大改Reward。这边看有没有需要单独介绍一下isaacgym的主要框架以及leggedgym框架和在哪里修改，从而帮助我和大家都更好的入门强化学习。
 
 4.价格部分
 电机价格，我去和达妙谈价格了，现在买这个说是我这边来的可以给到1万的价格，还送USB转CAN和核心板
@@ -37,7 +42,8 @@ AlexBot双足机器人设计仿真图
 https://http://zhuanlan.zhihu.com/p/69235601413 赞同 · 5 评论文章
 开发文档&驱动全套设计资料见开源地址
 微信交流群在这里：
-![微信图片_20240426144718](https://github.com/Alexhuge1/Alexbot/assets/79268846/ebfb4b64-0b2e-47ac-b660-2a5ba24f8048)
+
+![微信图片_20240505225420](https://github.com/Alexhuge1/Alexbot/assets/79268846/8449938e-e82e-42e9-bfac-254aa53f1ff2)
 
 
 
