@@ -43,7 +43,7 @@ https://http://zhuanlan.zhihu.com/p/69235601413 赞同 · 5 评论文章
 开发文档&驱动全套设计资料见开源地址
 微信交流群在这里：
 
-![微信图片_20240514155209](https://github.com/Alexhuge1/Alexbot/assets/79268846/d8fc76f1-5dd1-474e-bd20-97059cfd896d)
+![微信图片_20240604214536](https://github.com/Alexhuge1/Alexbot/assets/79268846/df902920-cd64-4ecf-8bb6-273a6b73a2cf)
 
 
 
