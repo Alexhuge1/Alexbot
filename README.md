@@ -49,5 +49,4 @@ https://http://zhuanlan.zhihu.com/p/69235601413 赞同 · 5 评论文章
 硬件主要包含这些，机械是拿SW2021画的，Keyshot渲染；硬件使用嘉立创eda pro完成，简单双层板，这里特别谢谢下我们的硬件，驱动也是他移植的。希望各位大佬看到以后多多宣传宣传，发发机器人交流群这些，争取更多的指导意见。
 
 开源地址：先放百度网盘，之后理好去github
-链接：https://http://pan.baidu.com/s/1oPcLiiXsUdc53Dmvo2ovkQ?pwd=tkqy
-提取码：tkqy 
+百度网盘链接：链接：https://pan.baidu.com/s/1Ji1RNw52DfC69kU2FrkoRw 提取码：gi1s 
