@@ -44,5 +44,3 @@ https://http://zhuanlan.zhihu.com/p/69235601413
 
 
 
-
-硬件主要包含这些，机械是拿SW2021画的，Keyshot渲染；硬件使用嘉立创eda pro完成，简单4层板
