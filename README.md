@@ -54,7 +54,7 @@ Our WeChat group has reached its maximum capacity, and we are now using an invit
 
 ### 中文
 
-AlexBot是我们开源双足机器人的下一代产品，设计上注重提升性能和结构合理性。我们为机器人开发了一整套开源硬件，包括驱动系统，使其能够动态行走。虽然它的性能可能无法与Unitree H1等商业机器人相媲美，但我们的设计是开源且成本效益高的。
+AlexBot是我们开源双足机器人的下一代产品，设计上注重提升性能和结构合理性。我们为机器人开发了一整套开源硬件，包括驱动系统，使其能够动态行走。虽然它的性能可能远远无法与Unitree H1等商业机器人相媲美，但我们的设计是开源且成本效益高的。
 
 <div style="text-align: center;">
     <img alt="运行图" src="https://github.com/Alexhuge1/Alexbot/assets/79268846/a2eb591e-d456-4b0f-b197-b859c2b0c155">
