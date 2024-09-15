@@ -7,7 +7,7 @@
 
 ### English
 
-AlexBot Mini is our open-source bipedal robots, designed with enhanced performance and a more rational structure. We have developed a complete set of open-source hardware for the robot, including the driving system, which allows it to walk dynamically. While it may not match the performance of commercial robots like the Unitree H1, our design is open-source and cost-effective.
+AlexBot Mini is an open-source bipedal robots, designed with enhanced performance and a more rational structure. We have developed a complete set of open-source hardware for the robot, including the driving system, which allows it to walk dynamically. While it may not match the performance of commercial robots like the Unitree H1, our design is open-source and cost-effective.
 
 <div style="text-align: center;">
     <img src="https://github.com/Alexhuge1/Alexbot/assets/79268846/a2eb591e-d456-4b0f-b197-b859c2b0c155" alt="run">
