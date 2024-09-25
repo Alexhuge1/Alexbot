@@ -47,7 +47,7 @@ Our open-source documentation includes中期文档和PPT, which are available fo
 
 ### Community
 
-Our WeChat group has reached its maximum capacity, and we are now using an invitation-only system. If you are interested in joining, please contact YYXAwesome, and we will invite you to the group. Several individuals have already successfully replicated our robot, and we will update the BOM as needed.
+Our WeChat group has reached its maximum capacity, and we are now using an invitation-only system. Several individuals or teams have already successfully replicated our robot, BOM is updated.
 
 
 ---
@@ -93,4 +93,4 @@ AlexBot是我们开源双足机器人的下一代产品，设计上注重提升�
 
 #### 社区
 
-我们的微信群已满200人，现在采用邀请制度。如果你有兴趣加入，请联络YYXAwesome，我们会邀请你加入群组。已有数人成功复制了我们的机器人，我们将根据需要更新BOM。
+我们的微信群已满200人，现在采用邀请制度。已有数人成功复制了我们的机器人，BOM已更新。
