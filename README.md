@@ -1,4 +1,5 @@
 latest version in https://github.com/Alexhuge1/Alexbotmini_hardware
+建议直接使用第二代机器人，我们第三代在研发中，用的也是dm电机
 ## Language
 
 - [English](#english)
